@@ -5,7 +5,7 @@
   "main": "mr_server.js",
   "dependencies": {
     "aws-elasticsearch-client": "^2.0.0",
-    "aws-sdk": "^2.650.0",
+    "aws-sdk": "^2.814.0",
     "elasticsearch": "^16.7.1",
     "express": "^4.17.1",
     "fs": "^0.0.1-security",
