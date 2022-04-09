@@ -9,7 +9,7 @@
     "elasticsearch": "^16.7.1",
     "express": "^4.17.1",
     "fs": "^0.0.1-security",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "redis": "^3.0.2",
     "request": "^2.88.2",
     "socket.io": "^2.3.0",
